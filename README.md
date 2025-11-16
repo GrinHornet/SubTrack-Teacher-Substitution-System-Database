@@ -111,5 +111,6 @@ All ON DELETE CASCADE
 
 ### Automation Layer
 *	jobs, job_batches, failed_jobs support background task execution
-
+# ERD (Entity Relationship Diagram)
+<img width="921" height="744" alt="image" src="https://github.com/user-attachments/assets/927853dc-d886-48ca-9e13-284c4a668935" />
 
